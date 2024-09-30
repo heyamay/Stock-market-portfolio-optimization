@@ -1,6 +1,6 @@
 # Stock market portfolio optimization
 
-![Banner](
+![Banner](https://github.com/heyamay/Stock-market-portfolio-optimization/blob/main/Banner.png)
 This project focuses on optimizing a stock market portfolio using modern portfolio theory. The goal is to find an optimal combination of assets that maximizes returns while minimizing risk, based on historical data.
 
 ## Table of Contents
